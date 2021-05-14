@@ -1,13 +1,13 @@
 ---
 title: Data Analytics
 subtitle: Actionable insights from data to drive business decisions
-image: ../assets/img/portfolio/analytics.jpg/400x300
+image: https://sapiencepath.github.io/assets/img/portfolio/analytics.jpg
 alt: Data Analytics
 
 caption:
   title: Data Analytics
   subtitle: Actionable insights from data to drive business decisions
-  thumbnail: ../assets/img/portfolio/analytics.jpg/400x300
+  thumbnail: https://sapiencepath.github.io/assets/img/portfolio/analytics.jpg
 ---
 <!--- Use this area to describe your project. **Markdown** supported.---> 
 
