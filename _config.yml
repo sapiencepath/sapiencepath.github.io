@@ -1,0 +1,23 @@
+
+
+
+
+url    : "sapiencepath.github.io" 
+baseurl: "" 
+title      : Sapience Path
+email      : contact.us@sapiencepath.com 
+description: "Strives to Propel Digitization"
+
+logo:    
+  path: assets\img\logo-03.jpg
+  height: 60 
+
+locale: "en-US" 
+
+analytics:
+  google: UA-178493960-1
+collections:
+  portfolio:
+
+markdown: kramdown
+
