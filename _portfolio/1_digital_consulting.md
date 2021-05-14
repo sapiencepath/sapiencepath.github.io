@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Digital Consulting
   subtitle: Optimal solutions for new and established businesses
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg/400x300
   
 #what displays when the item is clicked:
 title: Digital Consulting
 subtitle: Optimal solutions for new and established businesses
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg #main image, can be a link or a file in assets/img/portfolio
+image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: Digital Consulting
 
 ---
