@@ -1,13 +1,13 @@
 ---
 title: Cloud Advisory
 subtitle: Cloud adoption, architecture and solutions to migrate applications
-image: assets/img/portfolio/cloud.jpg/400x300
+image: https://sapiencepath.github.io/assets/img/portfolio/cloud.jpg
 alt: Cloud adoption and architecture
 
 caption:
   title: Cloud Advisory
   subtitle: Cloud adoption, architecture and solutions to migrate applications
-  thumbnail: assets/img/portfolio/cloud.jpg/400x300
+  thumbnail: https://sapiencepath.github.io/assets/img/portfolio/cloud.jpg
 ---
 <!--- Use this area to describe your project. **Markdown** supported.---> 
 
