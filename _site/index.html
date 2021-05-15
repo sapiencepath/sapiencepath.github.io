@@ -460,6 +460,12 @@ pipelines, end user visualization and reporting to derive insights which enable 
           method="POST"
         >
           <label>
+            <div class="form-group">
+              <input name="name" class="form-control" id="name" type="text"
+                placeholder="Name*"
+                required="required" data-validation-required-message="Please enter your name.">
+              <p class="help-block text-danger"></p>
+            </div>
             Your email:
             <input type="email" name="_replyto">
           </label>
