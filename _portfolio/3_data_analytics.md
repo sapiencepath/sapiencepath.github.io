@@ -16,9 +16,9 @@ We analyze data to derive meaningful and actionable insights to enable business 
 
 Our Analytics Services include:
 
-Data Pre-processing </b>
-Data Transformation </b>
-Data Modelling and Machine Learning </b>
-Model Evaluation, Optimization and  Interpretation </b>
-Visualization and Reporting to derive actionable insights to enable business decisions </b>
-Data Pipeline Configuration </b>
+* Data Pre-processing <br>
+* Data Transformation <br>
+* Data Modelling and Machine Learning <br>
+* Model Evaluation, Optimization and  Interpretation <br>
+* Visualization and Reporting to derive actionable insights to enable business decisions <br>
+* Data Pipeline Configuration <br>
