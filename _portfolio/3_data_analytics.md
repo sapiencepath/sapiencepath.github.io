@@ -19,6 +19,6 @@ Our Analytics Services include:
 * Data Pre-processing 
 * Data Transformation 
 * Data Modelling and Machine Learning 
-* Model Evaluation, Optimization and  Interpretation 
-* Visualization and Reporting to derive actionable insights to enable business decisions 
+* Model Evaluation and Optimization 
+* Visualization and Reporting 
 * Data Pipeline Configuration 
