@@ -12,7 +12,13 @@ caption:
 <!--- Use this area to describe your project. **Markdown** supported.---> 
 
 
-We analyze data to derive meaningful insights that provide competitive advantage to businesses.
+We analyze data to derive meaningful and actionable insights to enable business decisions and  provide competitive advantage to businesses.
 
-Our services help businesses with analytics solutions ranging from data wrangling, recommendation engine, setting up data 
-pipelines, end user visualization and reporting to derive insights which enable business decisions. 
+Our Analytics Services include:
+
+Data Pre-processing
+Data Transformation
+Data Modelling and Machine Learning
+Model Evaluation, Optimization and  Interpretation 
+Visualization and Reporting to derive actionable insights to enable business decisions
+Data Pipeline Configuration
